@@ -8,4 +8,4 @@ O desafio proposto foi reproduzir e criar um dashboard com o sample de dados ofe
 
 ### Página 2
 ![pagina2](https://i.imgur.com/QAjL19q.png)
-Por não possui uma conta corporativa não consegui reproduzir a visualização pedida pela instrutora. 
+Por não possuir uma conta corporativa não consegui reproduzir a visualização pedida pela instrutora. 
